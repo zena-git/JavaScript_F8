@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Lại Văn Chiến",
+      "age": 18,
+      "gender": "Nam"
+    },
+    {
+      "id": 2,
+      "name": "Lại Văn Chi",
+      "age": 18,
+      "gender": "Nam"
+    },
+    {
+      "id": 3,
+      "name": "Lại Văn Qua",
+      "age": 18,
+      "gender": "Nam"
+    }
+  ]
+}
